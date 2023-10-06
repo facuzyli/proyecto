@@ -1,0 +1,7 @@
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\bin\Debug\RobotLineFollower.exe.config
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\bin\Debug\RobotLineFollower.exe
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\bin\Debug\RobotLineFollower.pdb
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\obj\Debug\RobotLineFollower.csproj.AssemblyReference.cache
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\obj\Debug\RobotLineFollower.csproj.CoreCompileInputs.cache
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\obj\Debug\RobotLineFollower.exe
+C:\Users\facun\source\repos\RobotLineFollower\RobotLineFollower\obj\Debug\RobotLineFollower.pdb
